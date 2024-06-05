@@ -4,3 +4,8 @@ Justin Ferrales
   - worked on the write up, ~ 15 minutes
   - worked on the presentation, ~ 30 minutes
   - worked on the scala code (blockBusterOrNot, Top 10 Most Popular Companies, Top 10 Highest Average Budget, ~ 3 hours
+
+Jacob Mestre: 
+Coded the Linear Regression Model(June 2): 5 hours
+Added all information relevant to the Model to the presentation (June 4): 2 hours
+Worked on the write up (June 4): 15 minutes
