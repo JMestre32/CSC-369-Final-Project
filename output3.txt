@@ -1,0 +1,10 @@
+Company: rusty bear entertainment, Average Popularity: 1.929883
+Company: kNow Productions, Average Popularity: 0.59458
+Company: icon, Average Popularity: 2.080741
+Company: i5 Films, Average Popularity: 1.369649
+Company: area japan, Average Popularity: 3.803495
+Company: Zininsa Film Production, Average Popularity: 6.174435
+Company: Zephyr Films, Average Popularity: 3.659292
+Company: Zentropa Entertainments, Average Popularity: 16.91240025
+Company: Zelko Films, Average Popularity: 0.025364
+Company: Youth House Productions, Average Popularity: 0.493223

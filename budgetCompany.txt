@@ -1,0 +1,10 @@
+Company: Marvel Studios, Average Popularity: 1.75E8
+Company: Mid Atlantic Films, Average Popularity: 1.75E8
+Company: Walt Disney Animation Studios, Average Popularity: 1.55E8
+Company: Patalex IV Productions Limited, Average Popularity: 1.5E8
+Company: DreamWorks Animation, Average Popularity: 1.4014285714285713E8
+Company: DC Comics, Average Popularity: 1.3966666666666666E8
+Company: WingNut Films, Average Popularity: 1.323E8
+Company: Pacific Data Images (PDI), Average Popularity: 1.25E8
+Company: 1492 Pictures, Average Popularity: 1.1125E8
+Company: One Race Films, Average Popularity: 1.05E8
