@@ -1,0 +1,6 @@
+Justin Ferrales
+  - worked on making plots, ~ 1.5 hours
+  - worked on cleaning the data and trying to get the data to read in the Scala/Spark file, ~ 2 hours
+  - worked on the write up, ~ 15 minutes
+  - worked on the presentation, ~ 30 minutes
+  - worked on the scala code (blockBusterOrNot, Top 10 Most Popular Companies, Top 10 Highest Average Budget, ~ 3 hours
