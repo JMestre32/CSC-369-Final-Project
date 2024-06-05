@@ -1,0 +1,60 @@
+Learned classification tree model:
+ DecisionTreeClassificationModel (uid=dtc_5fbdcf1e769d) of depth 5 with 39 nodes
+  If (feature 2 <= 481.5)
+   If (feature 23 in {1.0})
+    If (feature 1 <= 4.45)
+     If (feature 0 <= 1.774104)
+      If (feature 8 in {1.0})
+       Predict: 0.0
+      Else (feature 8 not in {1.0})
+       Predict: 1.0
+     Else (feature 0 > 1.774104)
+      If (feature 0 <= 3.220327)
+       Predict: 0.0
+      Else (feature 0 > 3.220327)
+       Predict: 1.0
+    Else (feature 1 > 4.45)
+     If (feature 1 <= 5.25)
+      Predict: 1.0
+     Else (feature 1 > 5.25)
+      If (feature 0 <= 10.462671499999999)
+       Predict: 1.0
+      Else (feature 0 > 10.462671499999999)
+       Predict: 0.0
+   Else (feature 23 not in {1.0})
+    If (feature 2 <= 275.5)
+     Predict: 1.0
+    Else (feature 2 > 275.5)
+     If (feature 5 in {1.0})
+      Predict: 1.0
+     Else (feature 5 not in {1.0})
+      If (feature 53 in {1.0})
+       Predict: 0.0
+      Else (feature 53 not in {1.0})
+       Predict: 1.0
+  Else (feature 2 > 481.5)
+   If (feature 2 <= 865.5)
+    If (feature 0 <= 44.5315205)
+     If (feature 21 in {1.0})
+      Predict: 0.0
+     Else (feature 21 not in {1.0})
+      If (feature 96 in {1.0})
+       Predict: 0.0
+      Else (feature 96 not in {1.0})
+       Predict: 1.0
+    Else (feature 0 > 44.5315205)
+     If (feature 194 in {0.0})
+      Predict: 0.0
+     Else (feature 194 not in {0.0})
+      Predict: 1.0
+   Else (feature 2 > 865.5)
+    If (feature 0 <= 1.774104)
+     Predict: 0.0
+    Else (feature 0 > 1.774104)
+     If (feature 114 in {1.0})
+      Predict: 0.0
+     Else (feature 114 not in {1.0})
+      If (feature 187 in {1.0})
+       Predict: 0.0
+      Else (feature 187 not in {1.0})
+       Predict: 1.0
